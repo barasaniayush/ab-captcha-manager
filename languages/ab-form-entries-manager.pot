@@ -1,0 +1,31 @@
+# Copyright (C) 2026 Ayush Barasani
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: AB Form Entries Manager 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ab-form-entries-manager\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-10-29T12:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI\n"
+"X-Domain: ab-form-entries-manager\n"
+
+#. Plugin Name of the plugin
+msgid "AB Form Entries Manager"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/ab-form-entries-manager/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Centralized form submission manager for WordPress. Collects, displays, filters, and exports entries from Contact Form 7, WPForms, Forminator, Elementor Pro Forms, Gravity Forms, Ninja Forms, Formidable Forms, and Jetpack Forms in one unified modern dashboard."
+msgstr ""
+
+#. Author of the plugin
+msgid "Ayush Barasani"
+msgstr ""
